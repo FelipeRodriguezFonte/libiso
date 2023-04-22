@@ -4,7 +4,6 @@
 package mac
 
 import (
-	"encoding/hex"
 	"github.com/rkbalgi/libiso/crypto"
 )
 
